@@ -1,0 +1,14 @@
+C:\Users\LABAdmin\WindowsFormsAlarmApp\obj\Debug\net9.0-windows\WindowsFormsAlarmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABAdmin\WindowsFormsAlarmApp\obj\Debug\net9.0-windows\WindowsFormsAlarmApp.AssemblyInfoInputs.cache
+C:\Users\LABAdmin\WindowsFormsAlarmApp\obj\Debug\net9.0-windows\WindowsFormsAlarmApp.AssemblyInfo.cs
+C:\Users\LABAdmin\WindowsFormsAlarmApp\obj\Debug\net9.0-windows\WindowsFormsAlarmApp.csproj.CoreCompileInputs.cache
+C:\Users\LABAdmin\WindowsFormsAlarmApp\bin\Debug\net9.0-windows\WindowsFormsAlarmApp.exe
+C:\Users\LABAdmin\WindowsFormsAlarmApp\bin\Debug\net9.0-windows\WindowsFormsAlarmApp.deps.json
+C:\Users\LABAdmin\WindowsFormsAlarmApp\bin\Debug\net9.0-windows\WindowsFormsAlarmApp.runtimeconfig.json
+C:\Users\LABAdmin\WindowsFormsAlarmApp\bin\Debug\net9.0-windows\WindowsFormsAlarmApp.dll
+C:\Users\LABAdmin\WindowsFormsAlarmApp\bin\Debug\net9.0-windows\WindowsFormsAlarmApp.pdb
+C:\Users\LABAdmin\WindowsFormsAlarmApp\obj\Debug\net9.0-windows\WindowsFormsAlarmApp.dll
+C:\Users\LABAdmin\WindowsFormsAlarmApp\obj\Debug\net9.0-windows\refint\WindowsFormsAlarmApp.dll
+C:\Users\LABAdmin\WindowsFormsAlarmApp\obj\Debug\net9.0-windows\WindowsFormsAlarmApp.pdb
+C:\Users\LABAdmin\WindowsFormsAlarmApp\obj\Debug\net9.0-windows\WindowsFormsAlarmApp.genruntimeconfig.cache
+C:\Users\LABAdmin\WindowsFormsAlarmApp\obj\Debug\net9.0-windows\ref\WindowsFormsAlarmApp.dll
